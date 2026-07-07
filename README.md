@@ -5,11 +5,11 @@
 
 **Customer-Obsessed Full Stack Engineer & Tech Lead @ iFELSE Technologies**
 <br/>
-📍 Chennai, India &nbsp; | &nbsp; 📧 [fareedahmad888@gmail.com](mailto:fareedahmad888@gmail.com) &nbsp; | &nbsp; 🌐 [fareed.dev](https://fareed.dev)
+📍 Chennai, India &nbsp; | &nbsp; 📧 [fareedahmad888@gmail.com](mailto:fareedahmad888@gmail.com) &nbsp; | &nbsp; 🌐 [fareed-dev.netlify.app](https://fareed-dev.netlify.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fareedahmad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fareed.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/fareedahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fareedahmad888/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fareed-dev.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fareedahmad888/)
 
 *“Great software isn't written — it's engineered, tested, and relentlessly optimized.”*
 
