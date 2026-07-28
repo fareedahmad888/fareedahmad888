@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- Dynamic Typing Effect matching your portfolio theme -->
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=32&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi,+I'm+Fareed+Ahmad;Senior+Software+Engineer;Full+Stack+Architect;I+Build.+Ship.+Scale." alt="Typing SVG" />
+<!-- Anime Banner Header -->
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Anime Coding Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 
-**Customer-Obsessed Full Stack Engineer & Tech Lead @ iFELSE Technologies**
+<!-- Dynamic Typing Effect matching Tokyo Night/Anime theme -->
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=32&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi,+I'm+Fareed+Ahmad;Senior+Software+Engineer;Full+Stack+Architect;Domain+Expansion:+Cloud+Architecture;I+Build.+Ship.+Scale." alt="Typing SVG" />
+
+**Senior Software Engineer & Project Manager @ iFELSE Technologies**
 <br/>
 📍 Chennai, India &nbsp; | &nbsp; 📧 [fareedahmad888@gmail.com](mailto:fareedahmad888@gmail.com) &nbsp; | &nbsp; 🌐 [fareed-dev.netlify.app](https://fareed-dev.netlify.app/)
 
@@ -11,77 +14,76 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fareed-dev.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fareedahmad888/)
 
-*“Great software isn't written — it's engineered, tested, and relentlessly optimized.”*
+*“A sword is only as good as its wielder, and code is only as scalable as its architecture.”* ⚔️
 
 </div>
 
 ---
 
-## 👨‍💻 Executive Summary
+## ⛩️ Executive Summary
 
-I am a results-driven Full Stack Software Engineer with a proven track record of designing, developing, deploying, and maintaining enterprise SaaS applications and cloud infrastructure. I lead engineering squads to deliver high-performance systems under tight deadlines, heavily emphasizing **system design, zero-downtime deployments, and observability**.
+I am a results-driven **Senior Full Stack Software Engineer and Tech Lead** who rapidly transitioned from a junior developer to technical leadership. I currently lead engineering squads to architect, deploy, and scale enterprise SaaS platforms. My development philosophy is rooted in **observability, zero-downtime CI/CD, and highly available system design**.
 
 ### 🚀 Hard Metrics & Impact
-- ⚡ **Performance:** Reduced application load time by **80%** via bundle optimization, lazy loading, and Vite/Webpack tuning.
-- ⏱️ **Latency:** Dropped API response times by **40%** using Redis caching and efficient PostgreSQL indexing strategies.
-- 🛡️ **Reliability:** Slashed deployment failures by **90%** by implementing zero-downtime CI/CD pipelines (Docker, K8s, GitHub Actions).
-- 📊 **Observability:** Built real-time telemetry (Grafana, Prometheus, Loki) reducing production incident response times by **70%**.
-- 👥 **Leadership:** Managed a 3-member engineering squad and successfully mentored 6 developers to senior standards.
+- ⚡ **Performance:** Cut page load times by **80%** and API latency by **40%** via Redis caching and PostgreSQL/MongoDB query optimization.
+- 🛡️ **Reliability:** Slashed deployment failures by **90%** by rolling out zero-downtime pipelines (GitHub Actions, Docker, K8s).
+- 📊 **Observability:** Built real-time telemetry (Grafana, Prometheus, Loki) reducing production incidents by **70%**.
+- 👥 **Leadership:** Manage a 3-member engineering squad and actively mentor 6 junior developers.
 
 ---
 
-## 💼 Professional Experience
+## 📜 Professional Arc
 
 <details open>
-<summary><b>Senior Software Engineer / Project Manager</b> | <i>iFELSE Technologies</i> (Jan 2026 – Present)</summary>
+<summary><b>👑 Senior Software Engineer & Project Manager</b> | <i>iFELSE Technologies</i> (Feb 2026 – Present)</summary>
 <br>
 
-> Owned end-to-end development of enterprise SaaS products, managing the engineering team and ensuring high-availability systems (99.9% uptime).
+> *Leading end-to-end delivery of enterprise SaaS products, ensuring 99.9% uptime and high availability.*
 - Architected scalable Node.js/Express backend systems supported by PostgreSQL and Redis.
-- Implemented real-time communication via `Socket.IO` and asynchronous job processing with `BullMQ`, improving throughput by 3x.
-- Integrated payment gateways, WhatsApp APIs, and AWS services (EC2, S3, SES, SNS, SQS, RDS).
-- Established robust security protocols using JWT, OAuth2, bcrypt, and advanced RBAC.
+- Engineered real-time communication via `Socket.IO` and asynchronous job processing with `BullMQ`, driving a **3x throughput increase**.
+- Directed RESTful API, auth, and payment integration across e-commerce, invoicing, and multilingual (i18n) platforms.
+- Managed cloud infrastructure (AWS EC2, RDS, S3) and mobile releases via Google Play, TestFlight, and App Store.
 </details>
 
 <details>
-<summary><b>Junior Software Developer</b> | <i>iFELSE Technologies</i> (Jul 2025 – Jan 2026)</summary>
+<summary><b>⚔️ Junior Full Stack Software Engineer</b> | <i>iFELSE Technologies</i> (Jul 2025 – Feb 2026)</summary>
 <br>
 
-> Developed full-stack applications with React, Node.js, PostgreSQL, and MongoDB, delivering features in agile sprints.
-- Built responsive UIs with Tailwind CSS and Vite, ensuring strict cross-device compatibility.
-- Optimized SQL queries and improved database performance through indexing and query planning.
-- Collaborated on sprint planning, feature development, and rapid production debugging.
+> *Built and maintained scalable web/mobile applications with React, Next.js, and Node.js in agile environments.*
+- Optimized SQL queries and indexing across PostgreSQL and MongoDB to heavily improve app performance.
+- Implemented JWT authentication, advanced RBAC, and robust third-party API integrations.
+- Delivered multilingual (i18n) features and highly responsive, cross-device UIs.
 </details>
 
 <details>
-<summary><b>Early Career</b> | <i>Data Analyst & AI/Web Intern</i> (TELUS International & Corizo)</summary>
+<summary><b>🌱 Early Tech Journey</b> | <i>Internships & Founder Experience</i></summary>
 <br>
 
-> Built foundational experience across data analytics, machine learning pipelines, and full-stack development.
-- Extracted insights from large datasets using Python, Pandas, and NumPy.
-- Trained ANN/CNN models and worked with NLP and OpenCV architectures.
+> *Built foundational expertise across AI/ML, Cybersecurity, and Business Operations.*
+- **Corizo Edutech:** Applied neural network training, conducted vulnerability assessments, and built full-stack MERN features.
+- **Bio-Tek (Founder):** Bootstrapped and led a small business, growing output by 70% and mastering stakeholder management.
+- **TELUS International:** Evaluated search and map-based query datasets to improve AI data quality.
 </details>
 
 ---
 
-## 🏗️ Featured Architecture & Case Studies
+## 🏰 Featured Domain Expansions (Projects)
 
-| Project | Role | Description | Core Stack |
+| Project | Role | Stack | Impact / Metric |
 | :--- | :--- | :--- | :--- |
-| **iLMIFY SaaS** | *Tech Lead* | Enterprise student/institute management SaaS handling thousands of concurrent users. Led architecture, backend APIs, CI/CD, and AWS integrations. **Improved overall performance by 60%.** | `Next.js`, `Node.js`, `PostgreSQL`, `Redis`, `K8s` |
-| **SaaS Monitoring** | *Backend Eng.* | Real-time infrastructure monitoring for servers, APIs, databases, and Redis. **Reduced incident response time by 70%.** | `Go`, `Prometheus`, `Grafana`, `Loki`, `Docker` |
-| **Billing Systems** | *Full Stack Eng.* | Developed complex billing workflows, automated payment gateway integrations, and generated financial reporting pipelines. | `React`, `Express`, `Stripe/Razorpay`, `SQL` |
-| **FareedOS** | *Creator* | Next-Gen 3D interactive portfolio featuring custom WebGL shaders, smooth scrolling, and an interactive developer terminal. | `Next.js 15`, `Three.js`, `Tailwind v4`, `GSAP` |
+| **[ILMIFY SaaS](https://ilmify.app)** | *Tech Lead* | `Next.js`, `Node`, `PostgreSQL`, `Redis`, `AWS` | Enterprise platform supporting thousands of users. **80% performance boost & zero-downtime deployments.** |
+| **SaaS Monitoring** | *Backend Eng.* | `Go`, `Prometheus`, `Grafana`, `Loki`, `Docker` | Real-time telemetry suite across DBs and caching layers. **70% faster incident response.** |
+| **[FareedOS](https://fareed-dev.netlify.app/)** | *Creator* | `React`, `TypeScript`, `Tailwind`, `Framer Motion` | Next-Gen interactive portfolio. **95+ Lighthouse score, fully responsive, SEO optimized.** |
 
 ---
 
-## 🛠️ Technical Arsenal
+## ⚙️ Technical Arsenal
 
 ### Languages & Core
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -119,30 +121,24 @@ I am a results-driven Full Stack Software Engineer with a proven track record of
 
 ---
 
-## 🎓 Education & Certifications
-
-- 🎓 **Bachelor of Business Administration (BBA)** — Madurai Kamaraj University (CGPA 8.7)
-- 🎓 **BA Arabic & Islamic Studies** — Jamia Uswathul Hasana
-- 📜 **Certifications:** Web Development (Corizo), AI/ML (Corizo), Cyber Security, Android Development.
-- 🏆 **Achievements:** Striver DSA A-Z, NeetCode Grind 150 (200+ LeetCode problems solved).
-
----
-
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics (Tokyo Night Theme)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareedahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=7c3aed" alt="Fareed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareedahmad&theme=tokyonight&hide_border=true&background=09090b&ring=7c3aed&fire=7c3aed&currStreakNum=ffffff" alt="Fareed's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fareedahmad888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=7c3aed" alt="Fareed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareedahmad888&theme=tokyonight&hide_border=true&background=09090b&ring=7c3aed&fire=7c3aed&currStreakNum=ffffff" alt="Fareed's GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fareedahmad&theme=tokyonight" alt="Profile Details" width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fareedahmad888&theme=tokyonight" alt="Profile Details" width="80%"/>
 </div>
 
 ---
+
 <div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" style="border-radius: 10px; margin-bottom: 10px;" alt="Anime Wave" />
+  <br/>
   <i>Open to exciting opportunities in Software Engineering, System Architecture, and Technical Leadership.</i><br/>
   <b>Let's build something extraordinary together.</b>
 </div>
